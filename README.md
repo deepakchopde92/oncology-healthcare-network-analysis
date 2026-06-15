@@ -107,7 +107,7 @@ The following KPIs were analyzed to understand the healthcare network across New
 
 ### Dashboard Preview
 
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](DASHBOARD_PREVIEW.png)
 
 ### KPI Cards
 
